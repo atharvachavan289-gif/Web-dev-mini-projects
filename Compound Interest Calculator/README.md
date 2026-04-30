@@ -1,4 +1,5 @@
 💰 Compound Interest Calculator
+
 A fast, lightweight web application designed to instantly calculate compound interest. Simply input your principal amount, interest rate, duration, and compounding frequency, and let the app handle the complex math for you in seconds.
 
 ✨ Features
