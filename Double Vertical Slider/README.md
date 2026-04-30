@@ -1,4 +1,6 @@
 ↕️ Double Vertical Slider App
+
+
 A sleek, interactive web component built with pure HTML, CSS, and JavaScript. This application features a dual-slider layout where scrolling or clicking causes two split panels (e.g., image and text) to slide vertically in opposite directions simultaneously.
 
 ✨ Features
